@@ -1,3 +1,9 @@
 # sistema-de-cadastro
-# sistema feito em delphi
-# node
+
+> Status do projeto : em Desenvolvimento
+
+Para rodar este projeto em sua máquina por favor digite:
+
+```
+node app.js
+```
